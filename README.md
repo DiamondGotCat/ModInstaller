@@ -8,6 +8,8 @@ This app using Modrinth (Labrinth).
 - macOS 12
 - Minecraft Java Edition
 
+## If you have any comments/issues
+Unless it is a vulnerability, please report it under Issues.
 
 ## Screenshots
 
