@@ -2,7 +2,7 @@
 Minecraft Mod Installer for macOS
 
 ## NOTE
-This app using Modrinth (Labrinth).
+This app using Modrinth API (Labrinth).
 
 ## Requirements (Tested)
 - macOS 12
